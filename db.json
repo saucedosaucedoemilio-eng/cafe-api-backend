@@ -2,17 +2,138 @@
   "cafes": [
     {
       "id": 1,
-      "title": "cafe 1",
-      "description": "este es mi cafe de prueba 1",
+      "title": "Frosted Velvet",
+      "description": "Cold brew suave y aterciopelado con una capa de espuma helada.",
+      "price": 7.5,
+      "rating": 4.8,
+      "category": "Cold Brew",
       "userId": 1
     },
     {
-      "id": 22,
-      "title": "cafe 2",
-      "description": "este es mi cafe de prueba 2",
+      "id": 2,
+      "title": "Iced Caramel Drift",
+      "description": "Cold brew con notas de caramelo derretido sobre hielo. Dulce y refrescante.",
+      "price": 6.75,
+      "rating": 4.8,
+      "category": "Cold Brew",
       "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Vanilla Ice Latte",
+      "description": "Latte helado con sirope de vainilla natural. Cremoso y equilibrado.",
+      "price": 5.5,
+      "rating": 4.6,
+      "category": "Frappuccino",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "title": "Cocoa Ice Latte",
+      "description": "Latte helado con cacao intenso. El favorito de los amantes del chocolate.",
+      "price": 6,
+      "rating": 4.9,
+      "category": "Frappuccino",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "title": "Cold Brew Cloud",
+      "description": "Cold brew ligero y aéreo con espuma de leche fría y un toque de miel.",
+      "price": 7,
+      "rating": 4.8,
+      "category": "Cold Brew",
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "title": "Iced Hazelnut",
+      "description": "Cold brew con avellana tostada y hielo. Un clásico reconfortante en versión fría.",
+      "price": 7.25,
+      "rating": 4.8,
+      "category": "Cold Brew",
+      "userId": 1
+    },
+    {
+      "id": 7,
+      "title": "Cappuccino",
+      "description": "El clásico italiano: espresso con leche vaporizada y una gruesa capa de espuma.",
+      "price": 3.5,
+      "rating": 4.9,
+      "category": "Espresso",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "Latte",
+      "description": "Espresso suave con abundante leche vaporizada. El café con leche más popular del mundo.",
+      "price": 4,
+      "rating": 4.8,
+      "category": "Espresso",
+      "userId": 1
+    },
+    {
+      "id": 9,
+      "title": "Americano",
+      "description": "Espresso largo con agua caliente. Simple, limpio y el más bebido en todo el mundo.",
+      "price": 2.5,
+      "rating": 4.7,
+      "category": "Espresso",
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "title": "Macchiato",
+      "description": "Espresso manchado con una cucharada de leche espumada. Intenso y directo.",
+      "price": 3,
+      "rating": 4.8,
+      "category": "Espresso",
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "Oat Velvet Latte",
+      "description": "Latte cremoso elaborado con leche de avena. Sin lactosa, suave y con un ligero dulzor natural.",
+      "price": 4.5,
+      "rating": 4.7,
+      "category": "Espresso",
+      "userId": 1
+    },
+    {
+      "id": 12,
+      "title": "Matcha Iced Tea",
+      "description": "Té verde matcha japonés disuelto en agua fría con hielo y un toque de sirope de agave. Trendy y antioxidante.",
+      "price": 5,
+      "rating": 4.8,
+      "category": "Té Frío",
+      "userId": 1
+    },
+    {
+      "id": 13,
+      "title": "Peach Oolong Tea",
+      "description": "Té oolong taiwanés infusionado en frío con melocotón natural. Floral, afrutado y muy de moda.",
+      "price": 5.25,
+      "rating": 4.9,
+      "category": "Té Frío",
+      "userId": 1
+    },
+    {
+      "id": 14,
+      "title": "cafe numero 14",
+      "description": "cafe rico",
+      "price": 14.5,
+      "rating": 5.8,
+      "category": "Cold Brew",
+      "userId": 1
+    },
+    {
+      "title": "este es mi ultimo cafe de prueba",
+      "description": "Cold brew suave y aterciopelado con una capa de espuma helada.",
+      "price": 14.5,
+      "rating": 5.8,
+      "category": "Cold Brew",
+      "userId": 1,
+      "id": 15
     }
   ]
-  
-  
 }
