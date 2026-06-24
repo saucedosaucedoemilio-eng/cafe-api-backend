@@ -6,7 +6,8 @@
       "description": "Cold brew suave y aterciopelado con una capa de espuma helada.",
       "price": 7.5,
       "rating": 4.8,
-      "category": "Cold Brew"
+      "category": "Cold Brew",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "description": "Cold brew con notas de caramelo derretido sobre hielo. Dulce y refrescante.",
       "price": 6.75,
       "rating": 4.8,
-      "category": "Cold Brew"
+      "category": "Cold Brew",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "description": "Latte helado con sirope de vainilla natural. Cremoso y equilibrado.",
       "price": 5.5,
       "rating": 4.6,
-      "category": "Frappuccino"
+      "category": "Frappuccino",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "description": "Latte helado con cacao intenso. El favorito de los amantes del chocolate.",
       "price": 6,
       "rating": 4.9,
-      "category": "Frappuccino"
+      "category": "Frappuccino",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "description": "Cold brew ligero y aéreo con espuma de leche fría y un toque de miel.",
       "price": 7,
       "rating": 4.8,
-      "category": "Cold Brew"
+      "category": "Cold Brew",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "description": "Cold brew con avellana tostada y hielo. Un clásico reconfortante en versión fría.",
       "price": 7.25,
       "rating": 4.8,
-      "category": "Cold Brew"
+      "category": "Cold Brew",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "description": "El clásico italiano: espresso con leche vaporizada y una gruesa capa de espuma.",
       "price": 3.5,
       "rating": 4.9,
-      "category": "Espresso"
+      "category": "Espresso",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "description": "Espresso suave con abundante leche vaporizada. El café con leche más popular del mundo.",
       "price": 4,
       "rating": 4.8,
-      "category": "Espresso"
+      "category": "Espresso",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "description": "Espresso largo con agua caliente. Simple, limpio y el más bebido en todo el mundo.",
       "price": 2.5,
       "rating": 4.7,
-      "category": "Espresso"
+      "category": "Espresso",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "description": "Espresso manchado con una cucharada de leche espumada. Intenso y directo.",
       "price": 3,
       "rating": 4.8,
-      "category": "Espresso"
+      "category": "Espresso",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "description": "Latte cremoso elaborado con leche de avena. Sin lactosa, suave y con un ligero dulzor natural.",
       "price": 4.5,
       "rating": 4.7,
-      "category": "Espresso"
+      "category": "Espresso",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "description": "Té verde matcha japonés disuelto en agua fría con hielo y un toque de sirope de agave. Trendy y antioxidante.",
       "price": 5,
       "rating": 4.8,
-      "category": "Té Frío"
+      "category": "Té Frío",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "description": "Té oolong taiwanés infusionado en frío con melocotón natural. Floral, afrutado y muy de moda.",
       "price": 5.25,
       "rating": 4.9,
-      "category": "Té Frío"
+      "category": "Té Frío",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "description": "cafe rico",
       "price": 14.5,
       "rating": 5.8,
-      "category": "Cold Brew"
+      "category": "Cold Brew",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "description": "Cold brew suave y aterciopelado con una capa de espuma helada.",
       "price": 14.5,
       "rating": 5.8,
-      "category": "Cold Brew"
+      "category": "Cold Brew",
+      "cafe-image": "https://static.vecteezy.com/system/resources/thumbnails/053/581/271/small/a-white-coffee-cup-with-steam-rising-from-it-sits-on-a-white-saucer-png.png"
     }
   ]
 }
