@@ -27,22 +27,27 @@ server.use((req, res, next) => {
 });
 
 server.post("/login", (req, res) => {
-  const { username, password } = req.body;
+  try {
+    const { username, password } = req.body;
 
-  const db = router.db.getState();
-  const user = db.usuarios.find(
-    (u) => u.username === username && u.password === password
-  );
+    const db = router.db.getState();
+    const user = db.usuarios.find(
+      (u) => u.username === username && u.password === password
+    );
 
-  if (!user) {
-    return res.status(401).json({ error: "Credenciales incorrectas" });
+    if (!user) {
+      return res.status(401).json({ error: "Credenciales incorrectas" });
+    }
+
+    const token = jwt.sign({ username: user.username }, JWT_SECRET, {
+      expiresIn: "8h",
+    });
+
+    res.json({ token });
+  } catch (error) {
+    console.error("Error en /login:", error);
+    res.status(500).json({ error: error.message });
   }
-
-  const token = jwt.sign({ username: user.username }, JWT_SECRET, {
-    expiresIn: "8h",
-  });
-
-  res.json({ token });
 });
 
 server.use(router);
